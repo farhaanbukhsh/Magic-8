@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic-8</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="des">Do you need to ask a question? Are you looking for answers? We offer you  space to ask anything you want. If the answer is not what you expected, at least you make catharsis and ask again.Just ask and shake!</string>
+    <string name="ya">ShakeItUp!</string>
+    <string name="ans">ANSWER</string>
+
+</resources>
